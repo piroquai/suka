@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/SeleniumHello.iml" filepath="$PROJECT_DIR$/SeleniumHello.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/SeleniumNAS.iml" filepath="$PROJECT_DIR$/SeleniumNAS.iml" />
+>>>>>>> e579dbed5b115714a8b053be537e1d69175eb6e2
+    </modules>
+  </component>
+</project>
